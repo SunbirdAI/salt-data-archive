@@ -1,2 +1,2 @@
-# ug-language-parallel-text-dataset
+# SALT dataset
 Multi-way parallel text corpus of 5 key Ugandan languages.
