@@ -8,7 +8,7 @@ More details are in the following publication:
 This repository contains a notebook for training and evaluation which can be used to replicate the results in the paper. To try translation with the resulting models, see [translate.sunbird.ai](http://translate.sunbird.ai).
 
 
-## TTS data
+## Text-to-speech data
 This repo also contains text-to-speech data for English and Luganda in the `tts-data` folder. There are 2 csv files:
 - `english_studio_tts_dataset.csv`
 - `luganda_studio_tts_dataset.csv`
