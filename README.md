@@ -9,6 +9,9 @@ This repository contains a notebook for training and evaluation which can be use
 
 ## Changelog
 
+#### [v1.2] 2023-04-21
+Added TTS data for Luganda
+
 #### [v1.1] 2023-04-19
 
 Data format changed, some duplicate sentences removed, and sentences partitioned into splits (train: 23,497; dev: 500, test: 500).
