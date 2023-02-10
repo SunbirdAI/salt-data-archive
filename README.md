@@ -1,4 +1,4 @@
-# SALT (Sunbird AI Language Translation) dataset
+# SALT (Sunbird African Language Technology) dataset
 SALT is a multi-way parallel text corpus of Engish and five key Ugandan languages: Luganda, Lugbara, Acholi, Runyankole and Ateso. The dataset contains 25,000 sentences covering a range of topics of local relevance, such as agriculture, health and society. Each sentence is translated into all six languages.
 
 More details are in the following publication:
