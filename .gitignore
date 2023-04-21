@@ -1,1 +1,5 @@
 .idea/
+data/
+tts-data.zip
+venv/
+calculate_duration.py
