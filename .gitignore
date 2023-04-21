@@ -3,3 +3,4 @@ data/
 tts-data.zip
 venv/
 calculate_duration.py
+**/.ipynb_checkpoints
